@@ -1,6 +1,6 @@
 # Todo App Project
 
-This is a simple Todo application built with [NestJS](https://nestjs.com/) and [React](https://reactjs.org/) to manage tasks.
+This is a simple Todo application built with [NestJS](https://nestjs.com/) to manage tasks.
 
 ## Features
 
